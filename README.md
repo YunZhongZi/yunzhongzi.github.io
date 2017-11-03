@@ -9,14 +9,14 @@
 Markdown 是一个轻量级和易于使用的语法，可以为你的内容添加样式。它包含这些使用方法。
 
 ```markdown
-Syntax highlighted code block
+代码区
 
-# Header 1
-## Header 2
-### Header 3
+# 标题 1
+## 标题 2
+### 标题 3
 
-- Bulleted
-- List
+- 编号列表
+- 列表
 
 1. Numbered
 2. List
