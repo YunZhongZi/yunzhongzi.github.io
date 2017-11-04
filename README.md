@@ -21,17 +21,17 @@ Markdown 是一个轻量级和易于使用的语法，可以为你的内容添�
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**粗体** 和 _斜体_ 和 `代码` 文本
 
-[Link](url) and ![Image](src)
+[链接](地址) 和 ![图片](图片地址)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+更多细节 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll 主题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YunZhongZi/yunzhongzi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+网站使用的样式和风格，是你在 [repository settings](https://github.com/YunZhongZi/yunzhongzi.github.io/settings) 所选择的Jekyll theme. 主题的名称会被保存在配置文件 `_config.yml` 里面.
 
-### Support or Contact
+### 支持或交流
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+网页是否存在问题? 检出我们的 [documentation](https://help.github.com/categories/github-pages-basics/) 或者 [contact support](https://github.com/contact) 同时我们会帮助你解决好.
