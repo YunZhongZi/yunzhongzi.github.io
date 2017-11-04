@@ -18,15 +18,15 @@ Markdown 是一个轻量级和易于使用的语法，可以为你的内容添�
 - 编号列表
 - 列表
 
-1. Numbered
-2. List
+1. 编号
+2. 列表
 
 **粗体** 和 _斜体_ 和 `代码` 文本
 
 [链接](地址) 和 ![图片](图片地址)
 ```
 
-更多细节 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+更多细节请点击 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll 主题
 
@@ -34,4 +34,4 @@ Markdown 是一个轻量级和易于使用的语法，可以为你的内容添�
 
 ### 支持或交流
 
-网页是否存在问题? 检出我们的 [documentation](https://help.github.com/categories/github-pages-basics/) 或者 [contact support](https://github.com/contact) 同时我们会帮助你解决好.
+网页还存在问题吗? 检出我们的 [帮助文档](https://help.github.com/categories/github-pages-basics/) 或者 [联系支持](https://github.com/contact) 我们会帮助你解决问题.
