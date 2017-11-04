@@ -28,4 +28,4 @@ Markdown 是一个轻量级和易于使用的语法，请看以下的一些用�
 
 ### 支持或交流
 
-网页还存在问题吗? 检出我们的 [帮助文档](https://help.github.com/categories/github-pages-basics/) 或者 [联系支持](https://github.com/contact) 我们会帮助你解决问题.
+网页还存在问题吗? 查看 [帮助文档](https://help.github.com/categories/github-pages-basics/) 或者 [联系我们](https://github.com/contact) 帮助你解决问题.
