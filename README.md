@@ -1,31 +1,31 @@
-## HI，我是雲中子
+## HI，i am cloud seed
 
-### Markdown 介绍
+### Markdown
 
-Markdown 是一个轻量级和易于使用的语法，请看以下的一些用法。
+Markdown 
 
 ```markdown
-# 标题 1
-## 标题 2
-### 标题 3
+# 1
+## 2
+### 3
 
-- 编号
-- 列表
+- 
+- 
 
-1. 编号
-2. 列表
+1. 
+2. 
 
-**粗体** 和 _拉丁字体_ 和 `代码` 文本
+**B** 和 _L_ 和 `code` text
 
-[链接](地址) 和 ![图片](图片地址)
+[link](url) 和 ![image](url)
 ```
 
-更多细节请点击 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll 主题
+### Jekyll
 
-网站使用的样式和风格，是你在 [repository settings](https://github.com/YunZhongZi/yunzhongzi.github.io/settings) 所选择的Jekyll theme. 主题的名称会被保存在配置文件 `_config.yml` 里面.
+in [repository settings](https://github.com/YunZhongZi/yunzhongzi.github.io/settings) Jekyll theme. in `_config.yml`.
 
-### 支持或交流
+### contact
 
-网页还存在问题吗? 查看 [帮助文档](https://help.github.com/categories/github-pages-basics/) 或者 [联系我们](https://github.com/contact) 帮助你解决问题.
+see [document](https://help.github.com/categories/github-pages-basics/) or [contact](https://github.com/contact) to help you.
