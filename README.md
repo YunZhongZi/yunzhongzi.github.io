@@ -15,9 +15,9 @@ Markdown
 1. 
 2. 
 
-**B** 和 _L_ 和 `code` text
+**B** and _L_ and `code` text
 
-[link](url) 和 ![image](url)
+[link](url) and ![image](url)
 ```
 
 see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
